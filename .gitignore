@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/HelpingHand/x64/Debug
+/HelpingHand/HelpingHand/x64/Debug
+/HelpingHand/.vs/HelpingHand
